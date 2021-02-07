@@ -1,0 +1,28 @@
+.food-card {
+    margin: 20px;
+    width: 18rem;
+    border-radius: 20px;
+    background-color: lightgrey;
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+     }
+  .food-menu {
+    display: flex;
+    flex-wrap: wrap;
+ justify-content: center;
+  }
+  #food-detail {
+    display: flex;
+    color: black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: lightgray;
+    width: 300px;
+  }
+  
+  #searchResult {
+    display: none;
+  }
+  
